@@ -1,14 +1,13 @@
 body {
-    font-family: "Verdana" sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     background-color: black;
     text-align: center;
     width: 1280px;
 }
 
-header {
+header h1 {
     font-size: 50px;
-    width: 100%;
     padding: 10px 0;
 }
 
