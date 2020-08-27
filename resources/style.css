@@ -8,9 +8,12 @@ body {
 header h1 {
     font-size: 50px;
     padding: 10px 0;
+    font-weight: normal;
 }
 
 .link {
     color: aquamarine;
     font-size: 16px;
+    text-decoration: underline;
+    padding-bottom: 30px;
 }
